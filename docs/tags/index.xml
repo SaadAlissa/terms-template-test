@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Test taxonomy terms template</title>
-    <link>https://guayom.github.io/tags/</link>
+    <link>https://guayom.github.io/terms-template-test/tags/</link>
     <description>Recent content in Tags on Test taxonomy terms template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://guayom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://guayom.github.io/terms-template-test/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>https://guayom.github.io/tags/hello/</link>
+      <link>https://guayom.github.io/terms-template-test/tags/hello/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://guayom.github.io/tags/hello/</guid>
+      <guid>https://guayom.github.io/terms-template-test/tags/hello/</guid>
       <description></description>
     </item>
     
     <item>
       <title>World</title>
-      <link>https://guayom.github.io/tags/world/</link>
+      <link>https://guayom.github.io/terms-template-test/tags/world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://guayom.github.io/tags/world/</guid>
+      <guid>https://guayom.github.io/terms-template-test/tags/world/</guid>
       <description></description>
     </item>
     

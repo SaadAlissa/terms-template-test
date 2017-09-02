@@ -1,6 +1,7 @@
 baseURL = "https://guayom.github.io/terms-template-test/"
 languageCode = "en-us"
 title = "Test taxonomy terms template"
+publishDir = "docs"
 
 [taxonomies]
   tag = "tags"
