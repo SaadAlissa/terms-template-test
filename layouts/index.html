@@ -1,0 +1,9 @@
+{{ define "main" }}
+  {{ .Content }}
+  All site pages
+  <ul>
+    {{ range $.Site.Pages }}
+      <li><a href="{{ .Permalink }}">{{ .Title }} | Kind: {{ .Kind }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
