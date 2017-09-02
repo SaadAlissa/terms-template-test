@@ -1,4 +1,4 @@
-baseURL = "https://guayom.github.io/terms-template-test/"
+baseURL = "https://linguist-sweepers-80857.netlify.com/"
 languageCode = "en-us"
 title = "Test taxonomy terms template"
 publishDir = "docs"
